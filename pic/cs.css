@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.cls{
+	width:100%;
+	height: 100vh;
+	background-image: url("z6.jfif");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+
+}
+.cls1{
+	width:100%;
+	height: 100vh;
+	background-image: url("z5.jfif");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+
+}
+
+.img1{
+	width:600px;
+	height:300px;
+	margin-left: 40px;
+	padding-top: 40px;
+}
+
+h2{
+	color:white;
+	text-align: center;
+	font-style: italic;
+	font-family: 'Roboto', sans-serif;
+	font-variant: small-caps;
+	font-size: 24px; 
+}
